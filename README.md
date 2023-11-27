@@ -19,7 +19,7 @@ The dashboard should answer the following questions posed by the sales director:
 Microsoft Excel, PowerBI
 
 ## Data file
-[Adventure_Sales_Dataset](https://github.com/Adinarayana7008/Road_Accident_Data_Analysis_using_Excel/blob/master/Road%20Accident_Raw%20Data.xlsx)
+[Adventure_Sales_Dataset](https://github.com/Adinarayana7008/Adventure_Sales_Dashboard_using_PowerBI/blob/main/Adventure_Sales_Dataset.xlsx)
 
 ## Steps followed while creating dashboard
 Step-1: Extract the data from source
@@ -34,7 +34,7 @@ Below is the screenshot of Adventure sales dashboard from Power-BI. which answer
 ![Adventure_Sales_Dashboard_screenshot](https://github.com/Adinarayana7008/Chess_Problem_using_Python/assets/68777627/88b23276-365f-4aff-92ac-9c7a90ea19f9)
 
 ## Power Bi dashboard
-[Adventure_Sales_Dashboard by_Adi](https://github.com/Adinarayana7008/Road_Accident_Data_Analysis_using_Excel)
+[Adventure_Sales_Dashboard by_Adi](https://github.com/Adinarayana7008/Adventure_Sales_Dashboard_using_PowerBI/blob/main/Adventure_Sales_Dashboard%20by_Adi.pbix)
 
 ## Conclusion
 The analysis of Adventure Sales Company's revenue growth and profits by year, quarter, and month using Power BI has provided valuable insights into the company's sales trends and performance over time. This information will help the company make informed decisions to drive revenue growth and increase profits, ultimately leading to increased success and prosperity for the business. By utilizing the data analysis capabilities of Power BI, Adventure Sales Company has taken an important step towards achieving its goals and securing its future success.
